@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/miprimerapwa/static/css/main.a181717d.css",
+    "main.js": "/miprimerapwa/static/js/main.5961ef2e.js",
+    "static/js/787.6bcbf52a.chunk.js": "/miprimerapwa/static/js/787.6bcbf52a.chunk.js",
+    "static/media/logo.png": "/miprimerapwa/static/media/logo.d64fa0820f30374885bf.png",
+    "service-worker.js": "/miprimerapwa/service-worker.js",
+    "index.html": "/miprimerapwa/index.html",
+    "main.a181717d.css.map": "/miprimerapwa/static/css/main.a181717d.css.map",
+    "main.5961ef2e.js.map": "/miprimerapwa/static/js/main.5961ef2e.js.map",
+    "787.6bcbf52a.chunk.js.map": "/miprimerapwa/static/js/787.6bcbf52a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a181717d.css",
+    "static/js/main.5961ef2e.js"
+  ]
+}
